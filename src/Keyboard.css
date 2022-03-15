@@ -1,0 +1,42 @@
+.kContainer {
+}
+.digitalKeyboard {
+  text-align: center;
+  width: 300px;
+  margin: 50px auto;
+}
+.keyboardRow {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+.keyboardRow button {
+  appearance: none;
+  border: none;
+}
+button {
+  color: #ccc;
+  font-weight: bolder;
+  background-color: #818384;
+  padding: 15px;
+  margin: 3px;
+  border-radius: 5px;
+}
+.keyboardLetter:hover {
+  background-color: darkgray;
+}
+.green,
+.green:hover {
+  background-color: green;
+  color: #fff;
+}
+.yellow,
+.yellow:hover {
+  background-color: #edcf0c;
+  color: #fff;
+}
+.gray,
+.gray:hover {
+  background-color: #333;
+  color: #fff;
+}

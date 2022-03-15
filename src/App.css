@@ -1,0 +1,11 @@
+*{
+  background-color: #121213;
+}
+.App{
+  width: 500px;
+  margin: 0 auto;
+}
+h1{
+  color: #ccc;
+  text-align: center;
+}

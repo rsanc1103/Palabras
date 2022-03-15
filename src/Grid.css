@@ -1,0 +1,50 @@
+.grid {
+  width: 350px;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  color: #ccc;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.letter {
+  height: 60px;
+  width: 60px;
+  margin: 3px;
+  border: 2px solid #3d3d3d;
+  align-items: center;
+}
+.letterGreen {
+  background-color: green;
+  color: #fff;
+  height: 60px;
+  width: 60px;
+  margin: 3px;
+  border: 2px solid #3d3d3d;
+  align-items: center;
+}
+.letterYellow {
+  background-color: #edcf0c;
+  color: #fff;
+  height: 60px;
+  width: 60px;
+  margin: 3px;
+  border: 2px solid #3d3d3d;
+  align-items: center;
+}
+.letterGray {
+  background-color: #333;
+  color: #fff;
+  height: 60px;
+  width: 60px;
+  margin: 3px;
+  border: 2px solid #3d3d3d;
+  align-items: center;
+}
+h3 {
+  width: 60px;
+  background-color: transparent;
+}

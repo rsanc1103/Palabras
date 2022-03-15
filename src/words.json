@@ -1,0 +1,132 @@
+{
+  "wordsData": [
+    {
+      "id": 0,
+      "value": "cacas"
+    },
+    {
+      "id": 1,
+      "value": "botas"
+    },
+    {
+      "id": 2,
+      "value": "apodo"
+    },
+    {
+      "id": 3,
+      "value": "cajas"
+    },
+    {
+      "id": 4,
+      "value": "mocos"
+    },
+    {
+      "id": 5,
+      "value": "cajon"
+    },
+    {
+      "id": 6,
+      "value": "jugos"
+    },
+    {
+      "id": 7,
+      "value": "yates"
+    },
+    {
+      "id": 8,
+      "value": "zonas"
+    },
+    {
+      "id": 9,
+      "value": "vinos"
+    },
+    {
+      "id": 10,
+      "value": "Texas"
+    },
+    {
+      "id": 11,
+      "value": "malas"
+    },
+    {
+      "id": 12,
+      "value": "obras"
+    },
+    {
+      "id": 13,
+      "value": "ramos"
+    },
+    {
+      "id": 14,
+      "value": "salta"
+    },
+    {
+      "id": 15,
+      "value": "pesas"
+    },
+    {
+      "id": 16,
+      "value": "reyes"
+    },
+    {
+      "id": 17,
+      "value": "locos"
+    },
+    {
+      "id": 18,
+      "value": "mitos"
+    },
+    {
+      "id": 19,
+      "value": "giros"
+    },
+    {
+      "id": 20,
+      "value": "hecho"
+    },
+    {
+      "id": 21,
+      "value": "miras"
+    },
+    {
+      "id": 22,
+      "value": "crema"
+    },
+    {
+      "id": 23,
+      "value": "datos"
+    },
+    {
+      "id": 24,
+      "value": "corre"
+    },
+    {
+      "id": 25,
+      "value": "copas"
+    },
+    {
+      "id": 26,
+      "value": "comes"
+    },
+    {
+      "id": 27,
+      "value": "jodes"
+    },
+    {
+      "id": 28,
+      "value": "malos"
+    },
+    {
+      "id": 29,
+      "value": "niños"
+    },
+    {
+      "id": 30,
+      "value": "niñas"
+    },
+    {
+      "id": 31,
+      "value": "opera"
+    }
+  ]
+}
