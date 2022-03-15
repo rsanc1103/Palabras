@@ -19,18 +19,21 @@
 .letterGreen {
   background-color: green;
   color: #fff;
+  margin: 3px;
   border: 2px solid #3d3d3d;
   align-items: center;
 }
 .letterYellow {
   background-color: #edcf0c;
   color: #fff;
+  margin: 3px;
   border: 2px solid #3d3d3d;
   align-items: center;
 }
 .letterGray {
   background-color: #333;
   color: #fff;
+  margin: 3px;
   border: 2px solid #3d3d3d;
   align-items: center;
 }
