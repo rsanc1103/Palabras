@@ -1,9 +1,9 @@
-.kContainer {
-}
 .digitalKeyboard {
   text-align: center;
-  width: 300px;
+  min-width: 300px;
   margin: 50px auto;
+}
+.kContainer {
 }
 .keyboardRow {
   display: flex;
@@ -21,6 +21,11 @@ button {
   padding: 15px;
   margin: 3px;
   border-radius: 5px;
+}
+@media screen and (max-width: 480px) {
+  button {
+    padding: 10px;
+  }
 }
 .keyboardLetter:hover {
   background-color: darkgray;

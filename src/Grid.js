@@ -78,28 +78,29 @@ function Grid() {
     }
   }
   return (
-    <div>
-      <div className="grid" id="grid"></div>
-      <div className="grid" id="playingGrid">
-        <div className="row">
-          <div className="letter">
-            <h3>{row1[0]}</h3>
-          </div>
-          <div className="letter">
-            <h3>{row1[1]}</h3>
-          </div>
-          <div className="letter">
-            <h3>{row1[2]}</h3>
-          </div>
-          <div className="letter">
-            <h3>{row1[3]}</h3>
-          </div>
-          <div className="letter">
-            <h3>{row1[4]}</h3>
+    <div className="main">
+      <div>
+        <div className="grid" id="grid"></div>
+        <div className="grid" id="playingGrid">
+          <div className="row">
+            <div className="letter">
+              <h3>{row1[0]}</h3>
+            </div>
+            <div className="letter">
+              <h3>{row1[1]}</h3>
+            </div>
+            <div className="letter">
+              <h3>{row1[2]}</h3>
+            </div>
+            <div className="letter">
+              <h3>{row1[3]}</h3>
+            </div>
+            <div className="letter">
+              <h3>{row1[4]}</h3>
+            </div>
           </div>
         </div>
       </div>
-
       <div className="kContainer">
         <div className="digitalKeyboard">
           <div className="keyboardRow">
